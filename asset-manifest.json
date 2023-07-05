@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ReactCheet/static/css/main.f4e998a9.css",
-    "main.js": "/ReactCheet/static/js/main.a3ab1f6b.js",
-    "index.html": "/ReactCheet/index.html",
-    "main.f4e998a9.css.map": "/ReactCheet/static/css/main.f4e998a9.css.map",
-    "main.a3ab1f6b.js.map": "/ReactCheet/static/js/main.a3ab1f6b.js.map"
+    "main.css": "/ReactCheat/static/css/main.f4e998a9.css",
+    "main.js": "/ReactCheat/static/js/main.a3ab1f6b.js",
+    "index.html": "/ReactCheat/index.html",
+    "main.f4e998a9.css.map": "/ReactCheat/static/css/main.f4e998a9.css.map",
+    "main.a3ab1f6b.js.map": "/ReactCheat/static/js/main.a3ab1f6b.js.map"
   },
   "entrypoints": [
     "static/css/main.f4e998a9.css",
