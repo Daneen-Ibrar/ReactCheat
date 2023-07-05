@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ReactCheat/static/css/main.b518c5f5.css",
-    "main.js": "/ReactCheat/static/js/main.3fcdf8e7.js",
+    "main.js": "/ReactCheat/static/js/main.ca648c10.js",
     "index.html": "/ReactCheat/index.html",
     "main.b518c5f5.css.map": "/ReactCheat/static/css/main.b518c5f5.css.map",
-    "main.3fcdf8e7.js.map": "/ReactCheat/static/js/main.3fcdf8e7.js.map"
+    "main.ca648c10.js.map": "/ReactCheat/static/js/main.ca648c10.js.map"
   },
   "entrypoints": [
     "static/css/main.b518c5f5.css",
-    "static/js/main.3fcdf8e7.js"
+    "static/js/main.ca648c10.js"
   ]
 }
